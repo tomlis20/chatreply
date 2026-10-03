@@ -1,0 +1,11 @@
+## Interface: 120100, 16001
+## Title: ChatReply
+## Notes: Reply to chat messages with quoted context, Discord/Slack-style.
+## Author: lisie
+## Version: 1.1.0
+## SavedVariables: ChatReplyDB
+
+Core.lua
+ChatFilter.lua
+ReplyUI.lua
+AddonComm.lua
