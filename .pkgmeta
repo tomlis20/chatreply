@@ -1,0 +1,4 @@
+package-as: ChatReply
+
+ignore:
+  - README.md
